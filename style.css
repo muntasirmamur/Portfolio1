@@ -1,0 +1,69 @@
+
+body{
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+.purple-color{
+    color:#600beb;
+   
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+
+}
+.side-img{
+    width:50%;
+    padding-left:25%;
+}
+.primary-btn{
+    color:White;
+    background-color: #f10c0c;
+    padding: 13px 42px 13px 42px;
+    border-radius:20px;
+    text-decoration : none;
+}
+h1{
+    font-size: 2.5em;
+    line-height: 40px;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.experiences{
+    padding: 30px;
+    margin: 30px, 20px, 10px, 20px;
+    background-color:rgb(238,251,255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border: 2px double goldenrod;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    color: black;   
+
+}
+.left{
+    width: 45%;
+    float: left;
+}
+.right{
+    width: 45%;
+   float: right;
+}
+.small{
+    font-size: 20px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.half{
+    float: left;
+}
+.ii{
+    width: 50%;
+}
